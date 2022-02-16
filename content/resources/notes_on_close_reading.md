@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Guidelines written by the professor on close reading and analysis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-003-introduction-to-fiction-fall-2003/f979f6e2a951d52a74e767c3e4ee7815_notes_on_close_reading.pdf
+file: /media/courses/21l-003-introduction-to-fiction-fall-2003/f979f6e2a951d52a74e767c3e4ee7815_notes_on_close_reading.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Notes on Close Reading
 uid: f979f6e2-a951-d52a-74e7-67c3e4ee7815
