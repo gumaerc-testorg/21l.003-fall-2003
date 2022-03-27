@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 774cfa8c-d184-445a-65b5-085959f072b8
 resourcetype: Document
 title: Notes on Close Reading
 uid: f979f6e2-a951-d52a-74e7-67c3e4ee7815

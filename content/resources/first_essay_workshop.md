@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 863059a7-7a72-436c-a5a8-f785d53d233d
 resourcetype: Document
 title: First Essay Checklist
 uid: 85ac641e-ce4b-cba7-aece-38e6f551287f
