@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines and instructions for the essays assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -16,7 +17,7 @@ _Essay 1- Due Lec #4 (3 pages)_ _Close Reading of a Passage (Northanger Abbey)_
 
 Austen's novel suggests that love and happiness come from reading wisely, as well as having a good heart and honest character. In Northanger Abbey, Austen shows how reading and writing with discernment establish one's powers of moral, social, and intellectual judgment. Many of the authors on this syllabus examine the problem of using one's skills of observation to sift truth from the world's deceptive, duplicitous, or mercenary appearances.Austen's characters need to learn these skills, but so, she implies, does the reader. Thus she challenges the reader to observe more successfully than her characters do. Choose a brief passage from Austen's novel that you think tests a reader's powers of discernment. Analyze the language and any literary techniques you see Austen using in the passage to create problems in reading: irony, understatement, disguise, paraphrase, complications in tone or diction. What does Austen convey through her literary methods at this moment in the text, and what are the implications for one's understanding of other ideas or themes in the novel?
 
-First Essay Workshop Sheet ([PDF]({{< baseurl >}}/resources/first_essay_workshop))
+First Essay Workshop Sheet ({{% resource_link 85ac641e-ce4b-cba7-aece-38e6f551287f "PDF" %}})
 
 _Essay 2 - Due Lec #10 (5 pages) Analysis of a Conflict (Frankenstein, Typee)_
 
