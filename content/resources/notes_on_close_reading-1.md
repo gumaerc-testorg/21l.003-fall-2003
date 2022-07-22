@@ -5,6 +5,7 @@ file: /courses/21l-003-introduction-to-fiction-fall-2003/eec7b782cc264b4ed59a41f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Notes on Close Reading
 uid: eec7b782-cc26-4b4e-d59a-41feb672fa6c
 ---
 Guidelines written by the professor on close reading and analysis.
-
