@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the readings for the course by author, supplementary
+  Web sites for each author, and a guide to close reading and analysis.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 774cfa8c-d184-445a-65b5-085959f072b8
 ---
 
-What does it mean to read a text closely and analyze it? Why do we do close reading in literary study? Professor Kelley has developed a guide for students that answers these questions and assists students as they read the course texts ([PDF]({{< baseurl >}}/resources/notes_on_close_reading)).
+What does it mean to read a text closely and analyze it? Why do we do close reading in literary study? Professor Kelley has developed a guide for students that answers these questions and assists students as they read the course texts ({{% resource_link f979f6e2-a951-d52a-74e7-67c3e4ee7815 "PDF" %}}).
 
 Below are the readings for the course by author, along with supplementary Web sites for each author. Many of the required readings my be downloaded from the [Project Gutenberg Web site](http://www.gutenberg.org/). See the [calendar](/courses/21l-003-introduction-to-fiction-spring-2002/pages/calendar) for readings due each class session.
 
