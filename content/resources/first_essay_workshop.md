@@ -2,6 +2,7 @@
 content_type: resource
 description: Checklist used for a writing workshop.
 file: /courses/21l-003-introduction-to-fiction-fall-2003/85ac641ece4bcba7aece38e6f551287f_first_essay_workshop.pdf
+file_size: 10462
 file_type: application/pdf
 learning_resource_types:
 - Assignments
